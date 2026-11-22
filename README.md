@@ -1,0 +1,2 @@
+# optimatech
+Componente practico
